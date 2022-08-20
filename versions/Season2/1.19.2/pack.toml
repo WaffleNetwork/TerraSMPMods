@@ -1,0 +1,15 @@
+name = "Terra SMP S2 Modpack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "df3de844f2077da93383faebbbaf67595ec89d779441336ba4af5c66e06c9b85"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]
