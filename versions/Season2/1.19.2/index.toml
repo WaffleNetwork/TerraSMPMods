@@ -189,11 +189,6 @@ hash = "f4f8801f1e2a016a8ee62d54daee5cebf3370087c61d6e06a9e012d840140bb8"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "bf466c25f51d243f814c775ea0b24bc98846b2f8de550c6c45c9ad421562e313"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
 metafile = true
@@ -250,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
-hash = "dd9c0c87d98f655e385cdfd56cd6524f2853a2af1c19ab995bd42764331eefa4"
+hash = "0f93f7ebe762960461c659f042c0dfcb4079bcdff54a52df6b5ba1e7c8fa79ef"
 metafile = true
 
 [[files]]
@@ -386,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "2d5cadc7cf2503473232dd33e9a6fa43f6e2b8dbf22004cff6001035ad2f6355"
+metafile = true
+
+[[files]]
+file = "mods/simple-chunkloader-fabric.pw.toml"
+hash = "6ab8a916f100c5ba873d0c66bfb303fb7c031bc67d1a717059d44edebdc09493"
 metafile = true
 
 [[files]]
