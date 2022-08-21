@@ -5,8 +5,16 @@ file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
 [[files]]
+file = "config/clickthrough.json"
+hash = "ec0f4f93761622120ec731aad7bdd4b1ab47aed9241bafc9044dc4952226e388"
+
+[[files]]
 file = "config/debugify.json"
 hash = "8e683a923285b2661e1492cf5ee17d4415478e70f8b06bf7c01a65afa705f471"
+
+[[files]]
+file = "config/enhanced_attack_indicator.json"
+hash = "567779e52e14d5826384b37b8619dd8805d176c10804fd9fb205618447f3c82a"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -45,6 +53,10 @@ file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
+file = "config/yosbr/config/charmonium.toml"
+hash = "19b03cfde3b8b6deca656957e0f7223ae004c880264205af53406887999028ef"
+
+[[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 
@@ -77,16 +89,64 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "b9196e07b7b1a7239992b737b50ea35a337c87d1828a20d5f23300b18050f37c"
 
 [[files]]
+file = "config/yosbr/config/mousewheelie.hjson"
+hash = "24b0e59cb0f81b782519a93bbe28e2467a50906e89928aa7fe1cdd202cd5d9a1"
+
+[[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "adb0120f836bda5565ae9210d23ef8d2013852b36a81b5f2cf2c049cef185a9d"
+
+[[files]]
+file = "config/yosbr/config/sleepwarp.properties"
+hash = "e6221c3ad19f90c3644f41c9f364b993230598c651a76542d61b72b0854285b2"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "5a6af1d09607a8f8af3b9a03965ae9e1eb11723afa096d5e5c9cfab9581609ad"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
+hash = "5822885b9726d3f0172b0b677c7cbfa48968116cd8af0945278e82615ad8556d"
 
 [[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.core.config"
+hash = "2be31c468be0a9a7b9c1de0d6c2d07ec08e8cfe1a037ea6147bdeae26a24454f"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.fullmap.config"
+hash = "3f1f105f11386bcd7e26b9e13844e711f7b12da5098bddb52e3a29a91527b96c"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.minimap.config"
+hash = "74001ba529752cded3b9dbde33ba53ffdbbeca3632021482186a5e8d9714f2db"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.minimap2.config"
+hash = "30c14fb1094fc4a67134a02104ff8d89de01d0400db786c171eb5f27f4971048"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.topo.config"
+hash = "714770b089cd623151e81af815b6c1f3b192c50b08699b478444272c082e2737"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.waypoint.config"
+hash = "bd4a09ebeaf189f31063999de6c3278d12d984c9936f4bf3cd812acbd54c686c"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.webmap.config"
+hash = "14c0c94bf0ccd94649de5cd5efe9af072849189fedb474121c79334eabc8feec"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "458bdd07dd3bf6dd188c9ea65c55684f9510e7957629d0225f5d9afa7b095a41"
+hash = "0563aab53d9ca1d7ed393d151520601d9293ebca48342080a24c946ab1b957ff"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "a4bac07ae5707a164170cb44c54bb36d23d7b064a6cab77be9a071529ee57ab2"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"

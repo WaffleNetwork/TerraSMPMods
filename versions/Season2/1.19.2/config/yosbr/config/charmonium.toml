@@ -5,7 +5,7 @@
 
 [BiomeAmbience]
 	#Affects the volume of all biome ambient sounds. 1.0 is full volume.
-	"Volume scaling" = 0.05
+	"Volume scaling" = 0.02
 	#Number of blocks above the ground that biome ambience will be silenced.
 	#Set to zero to disable.
 	"Above ground for ambience silencing" = 32
@@ -50,7 +50,7 @@
 
 [SituationalAmbience]
 	#Affects the volume of all situational ambient sounds. 1.0 is full volume.
-	"Volume scaling" = 0.1
+	"Volume scaling" = 0.05
 	#Number of blocks above the ground that biome ambience will be silenced.
 	#Set to zero to disable.
 	"Above ground for ambience silencing" = 32
