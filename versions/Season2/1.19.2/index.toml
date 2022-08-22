@@ -73,6 +73,10 @@ file = "config/yosbr/config/entity_texture_features.json"
 hash = "35cb31f6ae8e293fed8e4eb5dff841c1e913ca2342af5fd47296f31024e14950"
 
 [[files]]
+file = "config/yosbr/config/fallingleaves.json"
+hash = "35e21ee90acd4beb17ecbca208ea840cbb1500571de5477046843a21f50109b3"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
@@ -105,6 +109,10 @@ file = "config/yosbr/config/rocks.json"
 hash = "5291a9a1dff4c206d409fae008a1ac66911a774e1067073ea8c45beff3f86749"
 
 [[files]]
+file = "config/yosbr/config/skinlayers.json"
+hash = "1199794bd24aa76c6c3d17a813851587b0ae268aaa34475532f08e5fa9b52b41"
+
+[[files]]
 file = "config/yosbr/config/sleepwarp.properties"
 hash = "e6221c3ad19f90c3644f41c9f364b993230598c651a76542d61b72b0854285b2"
 
@@ -122,7 +130,7 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/config/yigd.toml"
-hash = "e7bb9e2ee02b358c1fd368af3f8d680c445bc23fc77110b4df9b632668c00482"
+hash = "73d3ec2f8981b3b2fac3ddcd4e85152bcce9f026663722f9a05a03efdd06dc49"
 
 [[files]]
 file = "config/yosbr/journeymap/config/5.9/journeymap.core.config"
@@ -146,7 +154,7 @@ hash = "714770b089cd623151e81af815b6c1f3b192c50b08699b478444272c082e2737"
 
 [[files]]
 file = "config/yosbr/journeymap/config/5.9/journeymap.waypoint.config"
-hash = "bd4a09ebeaf189f31063999de6c3278d12d984c9936f4bf3cd812acbd54c686c"
+hash = "2eb7ee6c96e033f6bc842fa114040cb8540047b00a319e95707df98f322b472f"
 
 [[files]]
 file = "config/yosbr/journeymap/config/5.9/journeymap.webmap.config"

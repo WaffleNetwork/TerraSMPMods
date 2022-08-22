@@ -79,7 +79,7 @@ textShadow = true
 adaptRenderer = false
 glowingGrave = true
 glowMinDistance = 2
-glowMaxDistance = 10
+glowMaxDistance = 80
 
 [graveSettings.graveRenderSettings.guiTextColors]
 graveSelectGraveLocation = 13369548
