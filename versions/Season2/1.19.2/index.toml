@@ -380,6 +380,11 @@ hash = "0f93f7ebe762960461c659f042c0dfcb4079bcdff54a52df6b5ba1e7c8fa79ef"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "43dae20f22251236a55aae6060affae8f0c9792e863a973e74c932c3d0575c74"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "0abb6edf141e1050711172ae1f1848239b5d2eb472735bd091d8152c17eb45cb"
 metafile = true
@@ -557,6 +562,11 @@ metafile = true
 [[files]]
 file = "mods/statuseffecttimer.pw.toml"
 hash = "1da5f38d24b00e49108dedf43fe3dd388bade82563e5f69689d051167ea57927"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "94523cc0204b74e1cb3cccd13578a979e9356a9b7a46bfa9518d4eabaa26138c"
 metafile = true
 
 [[files]]
