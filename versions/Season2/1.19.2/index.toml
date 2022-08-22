@@ -33,6 +33,10 @@ file = "config/puzzle.json"
 hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "367e49124eac6f067fb6a36c2936757262ede6d71db278522ce8c0f9286ca41b"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports.json"
 hash = "faebe6d001be88df3e47722ab8255d19c7123cdfa00007d0989606b05f81ebcf"
 
@@ -51,6 +55,10 @@ hash = "5157cba377614babb525e4346d3f56cd9502e0f20e91ef3f31601a5c90080852"
 [[files]]
 file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
+
+[[files]]
+file = "config/yosbr/config/charm.toml"
+hash = "fdaf7471a212a0b74bc4987de55fc939b152787a31da6acd28dd9574a5c3ee38"
 
 [[files]]
 file = "config/yosbr/config/charmonium.toml"
@@ -93,8 +101,8 @@ file = "config/yosbr/config/mousewheelie.hjson"
 hash = "24b0e59cb0f81b782519a93bbe28e2467a50906e89928aa7fe1cdd202cd5d9a1"
 
 [[files]]
-file = "config/yosbr/config/shulkerboxtooltip.json5"
-hash = "adb0120f836bda5565ae9210d23ef8d2013852b36a81b5f2cf2c049cef185a9d"
+file = "config/yosbr/config/rocks.json"
+hash = "ccd11417331f8429c05907727f76e59fa079b52209c617a1daf091d5e547acec"
 
 [[files]]
 file = "config/yosbr/config/sleepwarp.properties"
@@ -111,6 +119,10 @@ hash = "5822885b9726d3f0172b0b677c7cbfa48968116cd8af0945278e82615ad8556d"
 [[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
+
+[[files]]
+file = "config/yosbr/config/yigd.toml"
+hash = "e7bb9e2ee02b358c1fd368af3f8d680c445bc23fc77110b4df9b632668c00482"
 
 [[files]]
 file = "config/yosbr/journeymap/config/5.9/journeymap.core.config"
@@ -145,8 +157,12 @@ file = "config/yosbr/options.txt"
 hash = "0563aab53d9ca1d7ed393d151520601d9293ebca48342080a24c946ab1b957ff"
 
 [[files]]
-file = "config/yosbr/servers.dat"
-hash = "a4bac07ae5707a164170cb44c54bb36d23d7b064a6cab77be9a071529ee57ab2"
+file = "config/yosbr/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/yosbr/presencefootsteps/userconfig.json"
+hash = "5172bbcb871e28f25a319729be9e5d718c057ab99cfd1ae0c4d06df416766ca8"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -195,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm.pw.toml"
-hash = "2729031c88e6b78bcaffa010f7841f4669a0cd903e16519fe9b6ebf396ee4ee0"
+hash = "523c1d4a80096f87e447fadf484df29701ac260f5e62951893437bda2502749d"
 metafile = true
 
 [[files]]
@@ -235,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "a4f1b4126dc3fdd6815012df939a60df9d4ae2721a2bc869d216b946ffe7b757"
+hash = "c04e00114dafd52f4d801840faf04575e772a99231ead56a687c4300d44d2f3c"
 metafile = true
 
 [[files]]
@@ -246,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "f4f8801f1e2a016a8ee62d54daee5cebf3370087c61d6e06a9e012d840140bb8"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "1427eb316137f045fc0ed36f5c7c22c7cad0d3133624e8cc6cce597887998297"
 metafile = true
 
 [[files]]
@@ -365,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "98b6983ca2bd063b9f4f980bcf14ade7c25a5cefe36ffacb3ac8bc557147dd4e"
+hash = "98c7673415d944cc32eefd92418a33b5071dd56082449a1f8d32b952ad42beda"
 metafile = true
 
 [[files]]
@@ -375,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
-hash = "e711296fa29d5659dcc38c4201e7a208e7e1dc8e75be919428dcbb6954765219"
+hash = "5b85f845f35f708db4c6b5a6bea56697827c5c1a4272d7cd902bba754e5edfc0"
 metafile = true
 
 [[files]]
@@ -400,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "bafac921dfa07632398d5142ab691e876d7446619c9e8f6bb052cd2c4b813fe5"
+hash = "a55db1e2364a588b1fe7f45e1f52d1d2c855bc0b6dc63a7664af37cccb77b797"
 metafile = true
 
 [[files]]
@@ -424,6 +445,11 @@ hash = "d2dbe33fa927b10398c5a1a42ca8a2f925a802b7a0bef4d1e76ab5ff54a25aba"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
+metafile = true
+
+[[files]]
 file = "mods/purpeille.pw.toml"
 hash = "89672bee9764894c8ab50b68c7eba9b208e97010eca159df434b4851d1ce86cf"
 metafile = true
@@ -439,18 +465,13 @@ hash = "ed5cd8e04cfc5748ffdfaa2a8caa36795addc1f0b641440b0c5a7eedc9cffe6a"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "2d5cadc7cf2503473232dd33e9a6fa43f6e2b8dbf22004cff6001035ad2f6355"
-metafile = true
-
-[[files]]
 file = "mods/simple-chunkloader-fabric.pw.toml"
 hash = "6ab8a916f100c5ba873d0c66bfb303fb7c031bc67d1a717059d44edebdc09493"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4bef0a5d86717027458920f5a34de4c42e6fca9b2332ea5937ebf41f28c3483d"
+hash = "bbe56a3e0f5cce0539e36f9854c2ef9423dcd522e69d4df389da006dbabbb294"
 metafile = true
 
 [[files]]
@@ -465,17 +486,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "3819426b160a445edb28b35d2286b4a9af8944744191a6ea609903ee685d14bf"
+hash = "15b1d9a7ee45d9481eeeaf87af79e649122f109a5f49caa4526a184a08af24f8"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "4bfa59263c3c2e8b8435eecdd8a944d1345b4b249191ccbadc953f3417b93608"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "9770de2c4a292f74040cb67660e462e7f896cfa09f0d856e9e116701f333cdd2"
 metafile = true
 
 [[files]]
@@ -525,9 +541,13 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "11307aeb2b004b37393ed3c669fb9d87ad55547bf33794a40b9b64fcd81be34f"
+hash = "f584f96f75836b488ae5f2748c9f262b9f27bce06f1a21c27e8c4d0647e14ae9"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "104a01a28500a9740e52b53e9cc451253f77d5d5588278f25a0e076adb7d3406"
+
+[[files]]
+file = "servers.dat"
+hash = "a4bac07ae5707a164170cb44c54bb36d23d7b064a6cab77be9a071529ee57ab2"

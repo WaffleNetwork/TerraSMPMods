@@ -1,3 +1,4 @@
+# Exclude packwiz executable
 packwiz.exe
 
 # Exclude exported CurseForge zip files
