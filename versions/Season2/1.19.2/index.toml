@@ -69,6 +69,10 @@ file = "config/yosbr/config/dynamicfps.toml"
 hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 
 [[files]]
+file = "config/yosbr/config/emotecraft.json"
+hash = "1bfa8ea2b45a92a5e6772645c9822d0ec710adb44c9e6b422f185b7ec80a027a"
+
+[[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "35cb31f6ae8e293fed8e4eb5dff841c1e913ca2342af5fd47296f31024e14950"
 
@@ -162,7 +166,7 @@ hash = "14c0c94bf0ccd94649de5cd5efe9af072849189fedb474121c79334eabc8feec"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4025ec6f8af3cb4972e340ae557134112c4a7d794cb8ee6f782c04570b338472"
+hash = "04bfd849bd21e2d1b5af40cc21776ad0bd8c20ed403b25aa2798e695c4cdc83e"
 
 [[files]]
 file = "config/yosbr/presencefootsteps/updater.json"
@@ -171,6 +175,14 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 [[files]]
 file = "config/yosbr/presencefootsteps/userconfig.json"
 hash = "5172bbcb871e28f25a319729be9e5d718c057ab99cfd1ae0c4d06df416766ca8"
+
+[[files]]
+file = "config/yosbr/voicechat/voicechat-client.properties"
+hash = "b38874587f0a44d59367270280dc9e65906220cb70cb01dac880348b6716d4e7"
+
+[[files]]
+file = "config/yosbr/voicechat/voicechat-server.properties"
+hash = "d883bddda06fdab97fd80317fa98dc0c889e56ef3a595c60c9363bf1e08e59a0"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -200,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "75dcdffc0d37e098ef12f1b149d68182337372e2d48653ffe0389b94b357a0de"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "f5186cabfd41e433ab2dccc0e13c2a37430ed751c47dc51820dd6cee65d7a967"
 metafile = true
 
 [[files]]
@@ -295,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "ebcdeb760f8541f5426171137afa6b7cdaf6029400bc700319c1fc94ef40ce25"
 metafile = true
 
 [[files]]
