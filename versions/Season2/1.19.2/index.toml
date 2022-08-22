@@ -102,7 +102,7 @@ hash = "24b0e59cb0f81b782519a93bbe28e2467a50906e89928aa7fe1cdd202cd5d9a1"
 
 [[files]]
 file = "config/yosbr/config/rocks.json"
-hash = "ccd11417331f8429c05907727f76e59fa079b52209c617a1daf091d5e547acec"
+hash = "5291a9a1dff4c206d409fae008a1ac66911a774e1067073ea8c45beff3f86749"
 
 [[files]]
 file = "config/yosbr/config/sleepwarp.properties"
@@ -154,7 +154,7 @@ hash = "14c0c94bf0ccd94649de5cd5efe9af072849189fedb474121c79334eabc8feec"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0563aab53d9ca1d7ed393d151520601d9293ebca48342080a24c946ab1b957ff"
+hash = "4025ec6f8af3cb4972e340ae557134112c4a7d794cb8ee6f782c04570b338472"
 
 [[files]]
 file = "config/yosbr/presencefootsteps/updater.json"
