@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "ed5cd8e04cfc5748ffdfaa2a8caa36795addc1f0b641440b0c5a7eedc9cffe6a"
+hash = "14382dc7503db6e6e02eff91f0935b3aa8b37466fa6d2e949f3c66b8c611f5df"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "f584f96f75836b488ae5f2748c9f262b9f27bce06f1a21c27e8c4d0647e14ae9"
+hash = "f2cbbd00e6ea974d08f67d0f2f44223754192afea205d419d18382b9e082e7d4"
 metafile = true
 
 [[files]]
