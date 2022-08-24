@@ -14,7 +14,7 @@ skipMultiplayerWarning:true
 joinedFirstServer:true
 enableVsync:true
 chatPreview:false
-screenEffectScale:0.5
+screenEffectScale:0.7
 gamma:1.0
 soundCategory_master:0.8509934
 soundCategory_music:0.016431924
@@ -35,3 +35,4 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.emotecraft.fastchoose:key.keyboard.r
+key_key.journeymap.fullscreen_chat_position:key.keyboard.unknown
