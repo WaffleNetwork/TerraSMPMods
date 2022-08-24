@@ -1,6 +1,6 @@
 name = "Indium"
 filename = "indium-1.0.7+mc1.19.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

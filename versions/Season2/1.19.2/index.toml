@@ -166,7 +166,7 @@ hash = "14c0c94bf0ccd94649de5cd5efe9af072849189fedb474121c79334eabc8feec"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "04bfd849bd21e2d1b5af40cc21776ad0bd8c20ed403b25aa2798e695c4cdc83e"
+hash = "1828c894fb0bae0383515b548170eb996e9ccbbf4745d1de238b604a5360988f"
 
 [[files]]
 file = "config/yosbr/presencefootsteps/updater.json"
@@ -431,6 +431,11 @@ hash = "d16e0db41806840dc72dfa44174896e088dd325249fc17ca0dac69af9fdc0518"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "b249fa3cebd7538497c9f728eba470a44bbddd4cb37debb3d51d2c5b8ef12141"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "a662fdb75dc2676b5912ba07b17a481fb1f9c64b9bd93820936997a77aa1636e"
 metafile = true
@@ -562,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "0abb6edf141e1050711172ae1f1848239b5d2eb472735bd091d8152c17eb45cb"
+hash = "7ba3e7996b269c01230d0301b3fbe77bbba12716ad32c7876e568fec7b69d0a3"
 metafile = true
 
 [[files]]
