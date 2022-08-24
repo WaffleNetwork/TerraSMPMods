@@ -611,6 +611,11 @@ hash = "84f503cded48e09f4991f73d05b483113ca57b3689ecab09f4d29846b98bb9c1"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "3c69c16fed767b3b1b164a1c4a427be01f745ab2f61fa63c7d2a8210c7a91e75"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "198084fae4ff7ee526c4d1b82b82f36585445d2c07b5f1c82e4121724c81400f"
 metafile = true
@@ -732,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "086d056813ec20297c101141ae21d78bb551e863c0f9c0c6ff39e44d01ebf749"
+hash = "5aad6894b3578019b24d073b58e4bf87d44e62296bc277bbfd93a34c8cbbda7d"
 metafile = true
 
 [[files]]
@@ -803,7 +808,3 @@ metafile = true
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "104a01a28500a9740e52b53e9cc451253f77d5d5588278f25a0e076adb7d3406"
-
-[[files]]
-file = "servers.dat"
-hash = "a4bac07ae5707a164170cb44c54bb36d23d7b064a6cab77be9a071529ee57ab2"

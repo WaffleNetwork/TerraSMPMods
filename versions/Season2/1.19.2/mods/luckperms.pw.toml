@@ -1,0 +1,13 @@
+name = "LuckPerms"
+filename = "LuckPerms-Fabric-5.4.36.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "50b6e1291e5b280733dd3075374e9d60f52d4a81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3896471
+project-id = 431733
