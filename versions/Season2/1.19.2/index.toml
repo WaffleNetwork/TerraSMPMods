@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "ebcdeb760f8541f5426171137afa6b7cdaf6029400bc700319c1fc94ef40ce25"
+hash = "9c5d252fe8b56f4bd341820cb5ddc272d448e8f34f5b617bc8769c89ad877300"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
-hash = "0f93f7ebe762960461c659f042c0dfcb4079bcdff54a52df6b5ba1e7c8fa79ef"
+hash = "69b66f7ab7f207fbae8d78236c2d59bc4c6164ba0a033eb289a144940de0dc02"
 metafile = true
 
 [[files]]
@@ -834,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "88cb2a3f92444a78d269fcf6f5c8cf6d36740c5d445871b372022b6397a06714"
+hash = "2f2c1630638f05d937ac70608eda4f3b2deabc254a1ef51e3e1b7b64f379ecb2"
 metafile = true
 
 [[files]]
