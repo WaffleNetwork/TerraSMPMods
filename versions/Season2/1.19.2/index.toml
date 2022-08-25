@@ -381,6 +381,11 @@ hash = "e8de5feaf8b78bd44e38d9502937ea49cfc6679ebc82e2d45eb36d2340115c93"
 metafile = true
 
 [[files]]
+file = "mods/antixray.pw.toml"
+hash = "9a1ac060aea76425366a413e15252d139bff071adb402c2d152cfea1d0ab33c1"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -416,8 +421,23 @@ hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "968dabb91375ca143c3c8eb7c6de76add0cff8d33bf30894650f4d4b2d0c1ce1"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "86563961328c167bbc16fbff56d1c9a54f192749c5da3615a571a2968e00f841"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "4a7dc34ea75dda18719bdcee7fdb23a48c53142b57df960ffffbca652fc6b95a"
 metafile = true
 
 [[files]]
@@ -556,6 +576,11 @@ hash = "c1272d06093a08717420d2aee3de94332a208ed1435694151bf1bd06b5d35536"
 metafile = true
 
 [[files]]
+file = "mods/golfiv.pw.toml"
+hash = "d5600601d6c7d5b87f2ee64034c6f7bde44778e163169e444d9aa438eaa1f86a"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "0f93f7ebe762960461c659f042c0dfcb4079bcdff54a52df6b5ba1e7c8fa79ef"
 metafile = true
@@ -608,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "cbd6b97dfc49090b18480f43eeef4401144006ed406110f32fb1126d47a21f11"
 metafile = true
 
 [[files]]
@@ -708,6 +738,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "14382dc7503db6e6e02eff91f0935b3aa8b37466fa6d2e949f3c66b8c611f5df"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "644b77858a6c71d594ea678ffc217026ef2847c253ec32f3fe01e20539947ee8"
 metafile = true
 
 [[files]]
