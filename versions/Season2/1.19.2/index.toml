@@ -558,6 +558,11 @@ hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
 metafile = true
 
 [[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "92c92ffb7a6ee49e51bf3a34537c9829351e7f702d83c3340843d2095f8f6ad5"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "54566a4d869db8c6139ed8900bbb2a3977f5328dcfcf9e43f1b63d008c93a43a"
 metafile = true
@@ -760,11 +765,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "bbe56a3e0f5cce0539e36f9854c2ef9423dcd522e69d4df389da006dbabbb294"
-metafile = true
-
-[[files]]
-file = "mods/skinrestorer.pw.toml"
-hash = "e93816e475cf1da16afe3ddc21fe33f2420d783166271241f7b04de18d49d9b3"
 metafile = true
 
 [[files]]
