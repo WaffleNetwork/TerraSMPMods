@@ -431,8 +431,8 @@ hash = "d16e0db41806840dc72dfa44174896e088dd325249fc17ca0dac69af9fdc0518"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "b249fa3cebd7538497c9f728eba470a44bbddd4cb37debb3d51d2c5b8ef12141"
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "85537bd3a69c906238ba15f41b9bc7529d49f0ac96c0f4518c4d460aecf3ceeb"
 metafile = true
 
 [[files]]
