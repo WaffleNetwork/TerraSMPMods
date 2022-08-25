@@ -174,7 +174,7 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/yosbr/presencefootsteps/userconfig.json"
-hash = "5172bbcb871e28f25a319729be9e5d718c057ab99cfd1ae0c4d06df416766ca8"
+hash = "f9fca9bb6561563eecd22a2e71b812e686240aaa1ace420fded936c03e4ef75d"
 
 [[files]]
 file = "config/yosbr/voicechat/voicechat-client.properties"
