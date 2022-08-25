@@ -8,7 +8,7 @@
     "_comment_allowedDestructibleByPiston_2": "// Useful to allow only breaking of bedrock but denying destruction of barriers.",
     "allowedDestructibleByHeadlessPistons": [
       "minecraft:piston_head",
-        "minecraft:bedrock"
+      "minecraft:bedrock"
     ],
     "// What altitude in the nether should start inflicting void damage (e.g. 128). -1 disables it.": "",
     "inflictNetherRoofDamage": -1
@@ -33,7 +33,7 @@
     },
     "creative": {
       "_comment_legaliseWholeInventory": "// Whether to check whole inventory when connecting / changing dimensions, etc.",
-      "legaliseWholeInventory": true,
+      "legaliseWholeInventory": false,
       "_comment_whitelistedNBT": "// Which NBT shouldn't be cleared",
       "whitelistedNBT": [
         "EntityTag",
@@ -45,10 +45,10 @@
         "display"
       ],
       "_comment_removeCreativeNBTTags": "// Disallow all NBT tags in creative which aren't in whitelist section.",
-      "removeCreativeNBTTags": true,
-      "checkEnchants": true,
-      "checkPotionLevels": true,
-      "checkItemCount": true
+      "removeCreativeNBTTags": false,
+      "checkEnchants": false,
+      "checkPotionLevels": false,
+      "checkItemCount": false
     }
   },
   "combat": {
@@ -59,8 +59,8 @@
   },
   "packet": {
     "_comment": "// Patches some outgoing server packets",
-    "removeTeleportData": true,
-    "removeHealthTags": true,
+    "removeTeleportData": false,
+    "removeHealthTags": false,
     "_comment_allowedHealthTags_1": "// Allows health tags for certain entities.",
     "_comment_allowedHealthTags_2": "// This maps entity ID to percentage as decimal.",
     "allowedHealthTags": {
