@@ -194,7 +194,7 @@ hash = "b38874587f0a44d59367270280dc9e65906220cb70cb01dac880348b6716d4e7"
 
 [[files]]
 file = "config/yosbr/voicechat/voicechat-server.properties"
-hash = "671bf7b5f98f1f5187952d40b3d3a33cd446e093782cb15506e12fe7ef9c9bff"
+hash = "51314c6b6bee35df0513bcbe4be7552a1f0f374eef4806b36fb5587c02e7e5a7"
 
 [[files]]
 file = "emotes/BPS_bloop.json"
