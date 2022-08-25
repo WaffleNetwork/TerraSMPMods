@@ -33,12 +33,16 @@ file = "config/puzzle.json"
 hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
 [[files]]
-file = "config/yosbr/config/DistantHorizons.toml"
-hash = "367e49124eac6f067fb6a36c2936757262ede6d71db278522ce8c0f9286ca41b"
+file = "config/yosbr/config/GolfIV_config.json"
+hash = "616f01b5991a551747bfde2db5fca13f09e988219791074922a21328593ea9c7"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports.json"
 hash = "faebe6d001be88df3e47722ab8255d19c7123cdfa00007d0989606b05f81ebcf"
+
+[[files]]
+file = "config/yosbr/config/antixray.toml"
+hash = "cdd494cd6dade46e54a99ae859cb3031b2c98d5b126fd2864c9b8173cbef8e8d"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -113,6 +117,10 @@ file = "config/yosbr/config/rocks.json"
 hash = "5291a9a1dff4c206d409fae008a1ac66911a774e1067073ea8c45beff3f86749"
 
 [[files]]
+file = "config/yosbr/config/servercore.toml"
+hash = "29aeb414ff9ce319594f1851e3e44251452e8c781ba79b467a22a77f74e5d188"
+
+[[files]]
 file = "config/yosbr/config/skinlayers.json"
 hash = "1199794bd24aa76c6c3d17a813851587b0ae268aaa34475532f08e5fa9b52b41"
 
@@ -131,6 +139,10 @@ hash = "5822885b9726d3f0172b0b677c7cbfa48968116cd8af0945278e82615ad8556d"
 [[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
+
+[[files]]
+file = "config/yosbr/config/tumbleweed.properties"
+hash = "520db97cbf2a96945a3f0740d9d71e03acd6b6adcc1f0c06a60de36b522894d9"
 
 [[files]]
 file = "config/yosbr/config/yigd.toml"
@@ -182,7 +194,7 @@ hash = "b38874587f0a44d59367270280dc9e65906220cb70cb01dac880348b6716d4e7"
 
 [[files]]
 file = "config/yosbr/voicechat/voicechat-server.properties"
-hash = "d883bddda06fdab97fd80317fa98dc0c889e56ef3a595c60c9363bf1e08e59a0"
+hash = "671bf7b5f98f1f5187952d40b3d3a33cd446e093782cb15506e12fe7ef9c9bff"
 
 [[files]]
 file = "emotes/BPS_bloop.json"
@@ -418,11 +430,6 @@ metafile = true
 [[files]]
 file = "mods/brb.pw.toml"
 hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
 metafile = true
 
 [[files]]
@@ -753,6 +760,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "bbe56a3e0f5cce0539e36f9854c2ef9423dcd522e69d4df389da006dbabbb294"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "e93816e475cf1da16afe3ddc21fe33f2420d783166271241f7b04de18d49d9b3"
 metafile = true
 
 [[files]]
