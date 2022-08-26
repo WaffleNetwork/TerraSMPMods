@@ -798,6 +798,11 @@ hash = "1da5f38d24b00e49108dedf43fe3dd388bade82563e5f69689d051167ea57927"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "ab437832fc7f9f3a8c6cfbee35efecb97638213eadcdfac7d67f5104ff53805d"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "94523cc0204b74e1cb3cccd13578a979e9356a9b7a46bfa9518d4eabaa26138c"
 metafile = true
