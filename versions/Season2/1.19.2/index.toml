@@ -588,11 +588,6 @@ hash = "c1272d06093a08717420d2aee3de94332a208ed1435694151bf1bd06b5d35536"
 metafile = true
 
 [[files]]
-file = "mods/golfiv.pw.toml"
-hash = "d5600601d6c7d5b87f2ee64034c6f7bde44778e163169e444d9aa438eaa1f86a"
-metafile = true
-
-[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "69b66f7ab7f207fbae8d78236c2d59bc4c6164ba0a033eb289a144940de0dc02"
 metafile = true
