@@ -1,0 +1,13 @@
+name = "WTHIT"
+filename = "wthit-fabric-5.16.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/g6rnROFX/wthit-fabric-5.16.1.jar"
+hash-format = "sha1"
+hash = "45158e45e59c03cf7fe98da4c3c6acc0ef32768c"
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "g6rnROFX"
