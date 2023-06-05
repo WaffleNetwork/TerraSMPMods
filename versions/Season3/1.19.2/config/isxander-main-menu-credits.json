@@ -2,7 +2,7 @@
     "main_menu": {
         "bottom_right": [
             {
-                "text": "Waffle S3",
+                "text": "Waffle SMP S3",
                 "clickEvent": {
                     "action": "open_url",
                     "value": "https://mcwaffle.net/"
