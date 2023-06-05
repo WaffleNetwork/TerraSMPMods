@@ -1,11 +1,15 @@
 version:3120
 autoJump:false
 snooperEnabled:false
+realmsNotifications:false
 darkMojangStudiosBackground:true
+mouseSensitivity:0.12
+fov:0.325
+renderDistance:12
 simulationDistance:6
 guiScale:3
-maxFps:260
-resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","midnightcontrols/bedrock"]
+maxFps:144
+resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","resources/simplehats_hatdl.zip","visualoverhaul/rounddiscs","2D Weapon Models"]
 incompatibleResourcePacks:[]
 advancedItemTooltips:true
 tutorialStep:none

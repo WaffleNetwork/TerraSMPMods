@@ -126,11 +126,16 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "fa32fb5f03af862a301c06b71a70f03e5c8f8579acf28f883604a93ff19fef30"
+hash = "00ad29f2a24095d5717f434660712dfc1d3d34d96db440d5d4f4140744559ec7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+metafile = true
+
+[[files]]
+file = "mods/addadd.pw.toml"
+hash = "21d4c1c69be7ea0f9200ab3129fce65f560381618e5565fcaaf52ec02a0b3a48"
 metafile = true
 
 [[files]]
@@ -454,6 +459,11 @@ hash = "577d6d70b5a7ab61e454ac05d0753bce12726499da97416025285f863308fc89"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "fd0d31c123f53fb70d79e3ac5333dc9178b378c87d46eb0b8f63db324f67fe51"
 metafile = true
@@ -516,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "94cc014b01c7ccd66e6f50dc75627be6f6ca144cc109c4c830342ef2bed73dcd"
+metafile = true
+
+[[files]]
+file = "mods/mariums-soulslike-weaponry.pw.toml"
+hash = "c63d70a26a9a3b2599945b63fb2f04f9e4352d4db0fea52b459633eaed24d132"
 metafile = true
 
 [[files]]
@@ -659,6 +674,16 @@ hash = "e35b48ca4017b6099823c624d9bb8a27f4cf8635eb3f0af940de68d44c1b177b"
 metafile = true
 
 [[files]]
+file = "mods/savage-ender-dragon.pw.toml"
+hash = "b24c10ffc5c49767e04c80df6b999c8f3c7440db74ca56a13e8aa6345fa6e9dd"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "73a1fc7197efeaf12b7c96c2b443f78246c2397b3e5a2f8e3385f42b03276392"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "5f651bbd39a1afaba66fd43f5ba09e596b9f703bc296125d0de3f6aa24083866"
 metafile = true
@@ -711,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "922979ee7eb9e1b16f1e1a64fd644f8e9a6c9045876946e61acc874b2e07745f"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "8a9273f433cf646924b15b49352f4cf52b09bb30c4854ad47d9ec72a6d957140"
 metafile = true
 
 [[files]]
