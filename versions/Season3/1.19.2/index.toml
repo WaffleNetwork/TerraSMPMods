@@ -53,6 +53,10 @@ file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
+file = "config/yosbr/config/doubledoors.json5"
+hash = "fc214a41e569307c2c7f6b1cc85568e5eca21fbda6f512fcc2011a634a93ee40"
+
+[[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 
@@ -93,34 +97,6 @@ file = "config/yosbr/config/iris.properties"
 hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
-file = "config/yosbr/config/journeymap/config/5.9/journeymap.core.config"
-hash = "2be31c468be0a9a7b9c1de0d6c2d07ec08e8cfe1a037ea6147bdeae26a24454f"
-
-[[files]]
-file = "config/yosbr/config/journeymap/config/5.9/journeymap.fullmap.config"
-hash = "3f1f105f11386bcd7e26b9e13844e711f7b12da5098bddb52e3a29a91527b96c"
-
-[[files]]
-file = "config/yosbr/config/journeymap/config/5.9/journeymap.minimap.config"
-hash = "74001ba529752cded3b9dbde33ba53ffdbbeca3632021482186a5e8d9714f2db"
-
-[[files]]
-file = "config/yosbr/config/journeymap/config/5.9/journeymap.minimap2.config"
-hash = "30c14fb1094fc4a67134a02104ff8d89de01d0400db786c171eb5f27f4971048"
-
-[[files]]
-file = "config/yosbr/config/journeymap/config/5.9/journeymap.topo.config"
-hash = "714770b089cd623151e81af815b6c1f3b192c50b08699b478444272c082e2737"
-
-[[files]]
-file = "config/yosbr/config/journeymap/config/5.9/journeymap.waypoint.config"
-hash = "2eb7ee6c96e033f6bc842fa114040cb8540047b00a319e95707df98f322b472f"
-
-[[files]]
-file = "config/yosbr/config/journeymap/config/5.9/journeymap.webmap.config"
-hash = "14c0c94bf0ccd94649de5cd5efe9af072849189fedb474121c79334eabc8feec"
-
-[[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
 hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
 
@@ -145,8 +121,16 @@ file = "config/yosbr/config/rightclickharvest.json"
 hash = "08d6c6863264deff91deda00462e31e90d6457be3e6ee0c7a1e3c1c7f3bd1d58"
 
 [[files]]
+file = "config/yosbr/config/rocks.json"
+hash = "0b556cb9d5b6426aa90cded0381f70a9cd0de6629f663d0821748a9198c4f415"
+
+[[files]]
 file = "config/yosbr/config/seasons.json"
 hash = "7ef46d236a5d45150d39b4395903a496f7dfa637cd258c12d3858fe54f3f671c"
+
+[[files]]
+file = "config/yosbr/config/sleepwarp.properties"
+hash = "6a6e09731abd5c0d485a4ace123d7913c02f1f41df5408ebde6d444f0f7c4210"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
@@ -173,20 +157,40 @@ file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "b38874587f0a44d59367270280dc9e65906220cb70cb01dac880348b6716d4e7"
 
 [[files]]
+file = "config/yosbr/config/yigd.toml"
+hash = "73d3ec2f8981b3b2fac3ddcd4e85152bcce9f026663722f9a05a03efdd06dc49"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.core.config"
+hash = "2be31c468be0a9a7b9c1de0d6c2d07ec08e8cfe1a037ea6147bdeae26a24454f"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.fullmap.config"
+hash = "3f1f105f11386bcd7e26b9e13844e711f7b12da5098bddb52e3a29a91527b96c"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.minimap.config"
+hash = "74001ba529752cded3b9dbde33ba53ffdbbeca3632021482186a5e8d9714f2db"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.minimap2.config"
+hash = "30c14fb1094fc4a67134a02104ff8d89de01d0400db786c171eb5f27f4971048"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.topo.config"
+hash = "714770b089cd623151e81af815b6c1f3b192c50b08699b478444272c082e2737"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.waypoint.config"
+hash = "2eb7ee6c96e033f6bc842fa114040cb8540047b00a319e95707df98f322b472f"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.webmap.config"
+hash = "14c0c94bf0ccd94649de5cd5efe9af072849189fedb474121c79334eabc8feec"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "8175172722e87cb9125b178d74906537bc5bdb4c32de23aec44d9a587740f620"
-
-[[files]]
-file = "config/yosbr/rocks.json"
-hash = "0b556cb9d5b6426aa90cded0381f70a9cd0de6629f663d0821748a9198c4f415"
-
-[[files]]
-file = "config/yosbr/sleepwarp.properties"
-hash = "e6221c3ad19f90c3644f41c9f364b993230598c651a76542d61b72b0854285b2"
-
-[[files]]
-file = "config/yosbr/yigd.toml"
-hash = "73d3ec2f8981b3b2fac3ddcd4e85152bcce9f026663722f9a05a03efdd06dc49"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
