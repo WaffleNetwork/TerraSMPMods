@@ -478,6 +478,16 @@ hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "996dc5805cfb6c4a9ca27eeadd573464cf0f21b85f24a81f930afe9b9655f49f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-terraformers-compat.pw.toml"
+hash = "75041065d2a8be1b1aca15e0c8f13e045ab3e90bd6c0b3cbece6895a2bc87596"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "7abcfe8d4d1a95251369e0ff007e79285753b0b8e30c2d15a4c785d6e9440367"
 metafile = true
