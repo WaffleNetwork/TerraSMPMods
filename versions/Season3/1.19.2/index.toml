@@ -297,11 +297,6 @@ hash = "ffa3d8e61ecea9a5ac51a61c14755501256538cf608c82c54d95ffbf3caed669"
 metafile = true
 
 [[files]]
-file = "mods/bl4cks-sit.pw.toml"
-hash = "f582615230ed91892ce8e7f093a70fe03679d14c64eda074c6b58b71b931f66f"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "bd28a7c914104487e9f8887c43cf0adb8234cbe83742c96b3cce7eebe99a46cf"
 metafile = true
@@ -329,6 +324,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "208b6e7574b7a5fee941b90257e34cb6a4ddbb162ee16ff475d030e39fd5e042"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "51b3e6744fd4d983476309ec766faf24597e1c8cfd26d45f1679ccd6f5a28da1"
 metafile = true
 
 [[files]]
@@ -819,6 +819,16 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "ab907ea5653d8869c147fea450bb1d553a85bc31b5f323bccb00b359533dabc6"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "9786ed7a4a961fbf6035899628390b289cef33365588d3550ab147cba7fc8d39"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "e3599de94b2b1c8dc5f390380ab2f970dcc8d15452dd5e56bbf2a33fa47f3ac1"
 metafile = true
 
 [[files]]
