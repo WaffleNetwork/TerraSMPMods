@@ -121,6 +121,10 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
 
 [[files]]
+file = "config/yosbr/config/options.txt"
+hash = "8175172722e87cb9125b178d74906537bc5bdb4c32de23aec44d9a587740f620"
+
+[[files]]
 file = "config/yosbr/config/rightclickharvest.json"
 hash = "08d6c6863264deff91deda00462e31e90d6457be3e6ee0c7a1e3c1c7f3bd1d58"
 
@@ -191,10 +195,6 @@ hash = "2eb7ee6c96e033f6bc842fa114040cb8540047b00a319e95707df98f322b472f"
 [[files]]
 file = "config/yosbr/journeymap/config/5.9/journeymap.webmap.config"
 hash = "14c0c94bf0ccd94649de5cd5efe9af072849189fedb474121c79334eabc8feec"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "8175172722e87cb9125b178d74906537bc5bdb4c32de23aec44d9a587740f620"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
