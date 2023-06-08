@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c61ac4b484dfa8472120da9cfbf2b288434286510eef683852fa5c3ce1c032d4"
+hash = "ab5e11ea04bcc67b89614900913a38f7fa6e620d3769588725d5449fe650a472"
 metafile = true
 
 [[files]]
@@ -618,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "mods/languagereload.pw.toml"
-hash = "ccb0786e2ebc78865811a4e1de3fc09ea057066108d362abebc299f816b2fa20"
+hash = "30424a33679f896e7fa68b296fde1b63b16d88d89e2108622f92a724de2dca19"
 metafile = true
 
 [[files]]
@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "523790c9055531f3cf3d9aa98dde71beed0c59f486a162fcd007cd5a8dec7436"
+hash = "ec0611293474d5dbedcd6ac9874dd69e6c642c308fbc11037407bb39c08cc001"
 metafile = true
 
 [[files]]
@@ -773,7 +773,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "fba5d5eb598fa11858af1e36a54119a26a59bb7924754d848c9a0bc4bed9e5bc"
+hash = "21ae5782c5657fbdc90aa42f3d1cfe76168fe107d66f207ec210dc505c096f7b"
 metafile = true
 
 [[files]]
