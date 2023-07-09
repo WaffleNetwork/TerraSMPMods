@@ -1,12 +1,12 @@
 name = "Terra SMP S3"
 author = "waffle"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a8465b7c708488ca5b9322eb5c2ceb21367e3d130b2322a78d03897f4cb4d070"
+hash = "14e5c56b58a06696b9187fc475f1ef716965786ff64467bc5235af5d52234cfd"
 
 [versions]
 fabric = "0.14.21"
